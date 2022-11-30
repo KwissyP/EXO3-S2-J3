@@ -1,0 +1,31 @@
+section {
+    width: 100%;
+}
+
+.flex {
+    display: flex;
+    margin: 0.5%;
+}
+
+.black {
+    background-color: black;
+    width: 33%;
+    height: 235px;
+    margin-right: 0.5%;
+    border: 1px solid black;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 33%;
+    height: 235px;
+    margin-right: 0.5%;
+    border: 1px solid black;
+}
+
+.red {
+    background-color: red;
+    width: 33%;
+    height: 235px;
+    border: 1px solid black;
+}
